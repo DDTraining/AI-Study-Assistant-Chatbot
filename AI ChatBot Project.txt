@@ -1,0 +1,18 @@
+AI ChatBot Project
+
+Steps:
+
+1. Create a virtual environment and activate it.
+
+2. Create a .env file to save api-keys and other environment variables
+
+3. Make sure your .env file is added to the .gitignore file.
+
+4. Install requirements (pip install -r requirements.txt).
+
+5. Move the study you want the study assistant to help with into the root directory, and add the file name to extract_from_pdf.py.
+Ensure the fie is in pdf format.
+
+6. Run the code 'python extract_from_pdf.py' on your terminal to extract the pdf-text
+
+5. Run the main app on your terminal (python app.py). You can then access your local host on a browser and ask your questions.
